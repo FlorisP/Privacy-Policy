@@ -1,0 +1,31 @@
+Privacy Policy — My Little Roomies
+
+Developer: Tanoshi Mobile  
+Contact: tanoshi.mobile@gmail.com  
+Last updated: 27 September 2026
+
+My Little Roomies is a cozy decoration game. You place stickers, decorate rooms, and may unlock sticker sheets through an in-app store.
+
+What we collect
+My Little Roomies does not require an account and does not collect any personal information.
+
+Game progress and room designs are stored locally on your device. If you share or open a room file (for example a .json), that happens only when you choose to share or open it.
+
+Advertising and analytics
+My Little Roomies does not show ads and does not include third-party advertising or analytics SDKs that collect data for advertising.
+
+In-app purchases (store)
+Any future paid sticker sheets or unlocks are handled through Google Play Billing. Google processes the payment. We do not receive or store your payment information. Purchase status may be stored on your device so unlocks persist.
+
+Google Play
+If you install the app from Google Play, Google may collect data as described in Google’s privacy policy:  
+https://policies.google.com/privacy
+
+Children
+The app is intended as a general audience / family-friendly experience. Because we do not collect personal information, we also do not collect personal information from children.
+
+Changes
+We may update this Privacy Policy if the app’s features change (for example if analytics or accounts are added later). The updated policy will be posted with a new “Last updated” date.
+
+Contact
+Questions about this Privacy Policy: tanoshi.mobile@gmail.com
