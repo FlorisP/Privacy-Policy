@@ -1,0 +1,16 @@
+Privacy Policy
+
+Spinblades uses third-party advertising and mediation SDKs to display ads. These SDKs may collect and share device and usage data, including advertising identifiers, device information, IP address, ad interaction data, and diagnostic data.
+
+This data may be used for advertising, analytics, fraud prevention, and service improvement by Unity LevelPlay / ironSource and mediated advertising partners.
+
+Spinblades does not require user accounts and does not directly collect personal information such as name, email address, phone number, contacts, messages, photos, or payment information.
+
+Third-party providers may process data according to their own privacy policies.
+
+Relevant third-party privacy policies:
+Unity: https://unity.com/legal/privacy-policy  
+Google: https://policies.google.com/privacy
+
+If you have questions about this Privacy Policy, you can contact:
+tanoshi.mobile@gmail.com
